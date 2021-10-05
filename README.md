@@ -8,6 +8,6 @@
 
 These are a collection of the 3 assignments I had completed for a university class. Link to projects are below.
 
-1. [Forward Kinematics](https://github.com/refatK/COMP477_A1_Forward-Kinematics)
-2. [Inverse Kinematics with Collision Detection and Avoidance](https://github.com/refatK/COMP477_A2_Inverse-Kinematics)
-3. [Mass Spring System using Explicit Euler Method](https://github.com/refatK/COMP477_A3_Mass_Spring)
+1. [Forward Kinematics](https://github.com/refatK/P1_Forward-Kinematics)
+2. [Inverse Kinematics with Collision Detection and Avoidance](https://github.com/refatK/P2_Inverse-Kinematics)
+3. [Mass Spring System using Explicit Euler Method](https://github.com/refatK/P3_Mass_Spring)
