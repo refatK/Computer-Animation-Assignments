@@ -1,4 +1,4 @@
-# Computer Animation (COMP 477) Assignments
+# Computer Animation Assignments
 
 <p>
   <img src="https://user-images.githubusercontent.com/31963426/117566282-c529fe00-b083-11eb-92ed-88e0af6b461d.gif" width="250" />
@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/31963426/117589828-11178a00-b0fa-11eb-93e6-2690106302ea.gif" width="250" />
 </p>
 
-These are a collection of the 3 assignments I had completed for COMP 477. Link to assignemnt implemantations are below.
+These are a collection of the 3 assignments I had completed for a university class. Link to projects are below.
 
 1. [Forward Kinematics](https://github.com/refatK/COMP477_A1_Forward-Kinematics)
 2. [Inverse Kinematics with Collision Detection and Avoidance](https://github.com/refatK/COMP477_A2_Inverse-Kinematics)
