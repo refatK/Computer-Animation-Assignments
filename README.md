@@ -10,4 +10,4 @@ These are a collection of the 3 assignments I had completed for a university cla
 
 1. [Forward Kinematics](https://github.com/refatK/P1_Forward-Kinematics)
 2. [Inverse Kinematics with Collision Detection and Avoidance](https://github.com/refatK/P2_Inverse-Kinematics)
-3. [Mass Spring System using Explicit Euler Method](https://github.com/refatK/P3_Mass_Spring)
+3. [Mass Spring System using Explicit Euler Method](https://github.com/refatK/P3_Mass_Spring_Euler)
